@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{0B1BE15C-9DE0-9E22-43F4-2DEBA455ECCA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MapController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CellSelector.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Interfaces/ICell.cs" />
+      <File FileName="Assets/Scripts/MapController.cs" Line="62" Column="41" />
+      <File FileName="Assets/Scripts/Views/CellView.cs" />
+      <File FileName="Assets/Scripts/PathFind/Map.cs" />
+      <File FileName="Assets/Scripts/Player/PlayerController.cs" />
+      <File FileName="Assets/Scripts/HexCoords.cs" />
+      <File FileName="Assets/Resources/Shaders/HExGrid.shader" Line="110" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Death_World_Caliban" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="Shaders" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Extensions" expanded="True" />
+                <Node name="Interfaces" expanded="True" />
+                <Node name="NavMesh" expanded="True" />
+                <Node name="PathFind" expanded="True" />
+                <Node name="Player" expanded="True" />
+                <Node name="Settings" expanded="True" />
+                <Node name="Views" expanded="True" />
+                <Node name="CellSelector.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fdb3b946-0de8-4930-b61f-ba4c3077bd39" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

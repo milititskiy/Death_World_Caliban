@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VFXGraph.OutputEventHandlers", "VFXGraph.OutputEventHandlers.csproj", "{3a9599ce-bf39-8f1a-2f22-161474b68821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{5ce11b0b-e09d-229e-43f4-2deba455ecca}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VFXGraph.OutputEventHandlers.Editor", "VFXGraph.OutputEventHandlers.Editor.csproj", "{592fa098-f3e3-92f1-f58d-7eb8a94af074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3a9599ce-bf39-8f1a-2f22-161474b68821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3a9599ce-bf39-8f1a-2f22-161474b68821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ce11b0b-e09d-229e-43f4-2deba455ecca}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ce11b0b-e09d-229e-43f4-2deba455ecca}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592fa098-f3e3-92f1-f58d-7eb8a94af074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592fa098-f3e3-92f1-f58d-7eb8a94af074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
